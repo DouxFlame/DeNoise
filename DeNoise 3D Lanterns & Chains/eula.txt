@@ -1,0 +1,35 @@
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
+
+By downloading, installing, or using the DeNoise Texture Pack ("the Pack"), you acknowledge and agree to be bound by the following terms established by DOUXPR ("the Author"):
+
+1. Intellectual Property & Ownership
+The custom art, edited textures, and unique visual assets contained within the Pack represent the intellectual property of the Author. Minecraft is a trademark of Mojang Synergies AB / Microsoft Corporation. This Pack is a custom resource creation for Minecraft; the Author claims ownership solely over their original artwork, texture edits, and custom assets, without infringing upon Mojang’s underlying ownership of the base game.
+
+2. Granted License & Personal Use
+You are granted a personal, non-exclusive, non-transferable, revocable license to download, install, and use the Pack for personal, non-commercial gameplay in your private, local, or multiplayer Minecraft sessions.
+
+3. Content Creation & Monetization (YouTube / Twitch / Social Media)
+You are explicitly permitted and encouraged to record videos, broadcast live streams, capture screenshots, and produce media featuring the Pack.
+
+Monetization Allowed: You may monetize your video or streaming content containing the Pack through partner programs (e.g., YouTube Partner Program, Twitch Affiliation/Partnership, ad revenue).
+
+Attribution: When featuring the Pack publicly, you must provide clear credit to DOUXPR and include a direct link to the Author’s official download page in the description.
+
+4. Distribution & Re-uploading Restrictions
+You are strictly prohibited from redistributing, re-hosting, mirroring, or making the Pack’s raw files available for download on third-party websites, public forums, custom launchers, or content portals without prior written permission from the Author. All public downloads must route exclusively through the Author's official links.
+
+5. Modifications & Derivative Works
+Personal Edits: You may modify or adapt the Pack’s files strictly for your own personal, private use.
+
+Public Release: You may not share, distribute, upload, or release modified versions of the Pack.
+
+Remixes & Asset Use: You may not extract textures from the Pack to combine them with other texture packs, mods, or artwork for public distribution, gifting, or sale without explicit written permission from the Author.
+
+6. Commercial Sale & Monetized Links
+The Pack itself may not be sold, rented, or placed behind a permanent paywall. You may not distribute the Pack using monetized link shorteners (e.g., AdFly) or secondary payment gates.
+
+7. Disclaimer of Warranty & Limitation of Liability
+The Pack is provided on an "AS IS" basis without warranties or conditions of any kind, either express or implied. The Author is not responsible for any software instability, system errors, or loss of data resulting from the installation or use of the Pack.
+
+8. Termination
+This license remains effective until revoked. The Author reserves the right to terminate this agreement or update these terms at any time. Upon receiving notice of termination, you must immediately cease all use and delete all local copies of the Pack.
